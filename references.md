@@ -15,4 +15,5 @@
 - Model hosting patterns in Amazon SageMaker, Part 4: Design patterns for serial inference on Amazon SageMaker: https://aws.amazon.com/blogs/machine-learning/part-4-model-hosting-patterns-in-amazon-sagemaker-design-patterns-for-serial-inference-on-amazon-sagemaker/
 
 
-
+## Lecture 3
+- Amazon SageMaker Processing documentation: https://docs.aws.amazon.com/sagemaker/latest/dg/processing-job.html
